@@ -1,6 +1,6 @@
 # Calificador de Labs
 
-Script en Python que ayuda a revisar laboratorios de programación entregados en **Canvas** con un enlace a **GitHub**. Descarga los repositorios, muestra el historial de commits y, opcionalmente, usa una IA local (**Ollama**) para comparar el código con las instrucciones del lab.
+Script en Python que ayuda a revisar laboratorios entregados en **Canvas** con un enlace a **GitHub**. Descarga los repositorios, muestra el historial de commits y, opcionalmente, usa una IA local (**Ollama**) para comparar el código con las instrucciones del lab.
 
 > La IA solo genera una revisión de apoyo. La nota final siempre la decide el instructor.
 
@@ -27,7 +27,7 @@ Todo el código se procesa en tu computadora. La IA corre localmente, así que e
 ## Instalación
 
 ```bash
-git clone https://github.com/TU_USUARIO/calificador.git
+git clone https://github.com/Hane12715/calificador_automatico.git
 cd calificador
 pip install requests pypdf
 ```
